@@ -1,2 +1,3 @@
 # DemoRepo
-This is the demo repository
+This is the demo repository.
+Author - Prince Kumar
